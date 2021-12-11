@@ -54,7 +54,7 @@ spotbugsTest {
 }
 
 ext {
-    opendistroVersion = '1.13.0'
+    opendistroVersion = '1.13.3'
     isSnapshot = "true" == System.getProperty("build.snapshot", "true")
 }
 
